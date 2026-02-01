@@ -12,7 +12,7 @@ function App() {
       <div className='card-title'>
         <Welcome name="26spit3"></Welcome>
         <p>Họ tên:Nguyễn Ngọc Quỳnh Như</p>
-        <p>Sở thích: </p>
+        <p>Sở thích: Ngủ</p>
       </div>
     </>
   )
