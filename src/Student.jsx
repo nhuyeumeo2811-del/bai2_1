@@ -6,7 +6,8 @@ function Student(props){
         border: "5px solid rgba(106, 212, 253, 1)",
         padding:"10px",
         marginBottom: "5px",
-        borderRadius: "20px"
+        borderRadius: "20px",
+        width:"100px"
     }}>
         <h3>Họ Tên: {props.name}</h3>
         <h3>Tuổi: {props.age}</h3>
