@@ -7,7 +7,7 @@ import Student from './Student'
 function App() {
   return (
     <>
-      <div style={{padding: "20px"}}>
+      <div style={{padding: "50px"}}>
         <Student name="Nguyễn Ngọc Quỳnh Như" age={17} className="26spit3"/>
         <Student name="Võ Nguyễn Phương Uyên" age={17} className="26spit3"/>
         <Student name="Nguyễn Ngọc Quỳnh Nhi" age={17} className="26spit3"/>

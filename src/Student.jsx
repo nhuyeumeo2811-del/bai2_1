@@ -3,8 +3,8 @@ function Student(props){
     <>
     <div style={{
         textAlign: "center",
-        border: "5px solid blue",
-        padding:"20px",
+        border: "5px solid rgb(142, 223, 255)",
+        padding:"10px",
         marginBottom: "5px",
         borderRadius: "20px"
     }}>
