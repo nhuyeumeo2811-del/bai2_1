@@ -7,7 +7,7 @@ function Student(props){
         padding:"10px",
         marginBottom: "5px",
         borderRadius: "20px",
-        width:"800px"
+        width:"750px"
     }}>
         <h3>Họ Tên: {props.name}</h3>
         <h3>Tuổi: {props.age}</h3>
