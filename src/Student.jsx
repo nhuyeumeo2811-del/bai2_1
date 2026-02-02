@@ -4,7 +4,7 @@ function Student(props){
     <div style={{
         textAlign: "center",
         border: "5px solid rgb(266, 196,219,1)",
-        padding:"10px",
+        padding:"20px",
         marginBottom: "5px",
         borderRadius: "20px"
     }}>
